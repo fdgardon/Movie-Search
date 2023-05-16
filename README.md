@@ -23,16 +23,12 @@ Once loading the webpage you will be prompt with two movies selection you want t
 ## Mock
 
 The following images show the feature of the application.
+![Screen Shot 2023-05-16 at 4 51 39 PM (2)](https://github.com/fdgardon/movie-search/assets/119641606/fdc9c1ab-ddd9-4f11-baf0-83d813b90ed6)
+![Screen Shot 2023-05-16 at 4 49 42 PM (2)](https://github.com/fdgardon/movie-search/assets/119641606/16ff40c2-9276-4e08-8c75-fdc655b37a3e)
 
 <img width="1280" alt="Screen Shot 2023-04-05 at 3 25 04 PM" src="https://user-images.githubusercontent.com/111917255/230225153-a170747d-ed84-4a81-8952-65fb1d3721d9.png">
 <img width="1280" alt="Screen Shot 2023-04-05 at 3 25 54 PM" src="https://user-images.githubusercontent.com/111917255/230225174-3e5c7d38-7884-4f2e-8d8e-3c2456762717.png">
 <img width="1280" alt="Screen Shot 2023-04-05 at 3 26 26 PM" src="https://user-images.githubusercontent.com/111917255/230225189-85cf35ba-8f06-4b69-aae1-ba183dcb34b1.png">
-
-
-![movie-search](public/images/choosemovie.png)
-
-![movie-search](public/images/movielogin.png)
-
 
 ## License
 
